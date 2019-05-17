@@ -15,3 +15,5 @@ https://playload.herokuapp.com/commits
 5. change read file
 
 6. succed
+
+7. text of file disappeared
