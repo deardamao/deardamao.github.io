@@ -23,3 +23,5 @@ https://playload.herokuapp.com/commits
 9. http response
 
 10. heroku error info -> EOF
+
+11. print log
