@@ -17,3 +17,5 @@ https://playload.herokuapp.com/commits
 6. succed
 
 7. text of file disappeared
+
+8. push data to redis
