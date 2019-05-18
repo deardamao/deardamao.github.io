@@ -25,3 +25,5 @@ https://playload.herokuapp.com/commits
 10. heroku error info -> EOF
 
 11. print log
+
+12. print more logs
