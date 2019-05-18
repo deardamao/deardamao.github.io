@@ -6,6 +6,8 @@ https://playload.herokuapp.com/commits
 
 req.Body
 
+print pushEvent structure
+
 1. no such file
 
 2. pushed_at parse RFC3339
