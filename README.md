@@ -21,3 +21,5 @@ https://playload.herokuapp.com/commits
 8. push data to redis
 
 9. http response
+
+10. heroku error info -> EOF
