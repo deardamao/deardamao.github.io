@@ -19,3 +19,5 @@ https://playload.herokuapp.com/commits
 7. text of file disappeared
 
 8. push data to redis
+
+9. http response
