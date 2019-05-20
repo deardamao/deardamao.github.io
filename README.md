@@ -1,5 +1,7 @@
 # deardamao.github.io
 
+query pushes from redis
+
 store pushes to redis
 
 find out finally
