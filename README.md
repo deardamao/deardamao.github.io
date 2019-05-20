@@ -1,5 +1,7 @@
 # deardamao.github.io
 
+fix bug
+
 query pushes from redis
 
 store pushes to redis
