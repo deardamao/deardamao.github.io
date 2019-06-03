@@ -1,5 +1,7 @@
 # deardamao.github.io
 
+connectiong info
+
 database/sql usage
 
 store error
