@@ -1,5 +1,7 @@
 # deardamao.github.io
 
+store error
+
 redis or postgresql
 
 to postgresql
